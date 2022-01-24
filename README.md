@@ -1,5 +1,5 @@
 # Object Oriented Programming
-Tutorial for Obeject Oriented Programming
+Tutorial for Obeject Oriented Programming based on Python
 
 
 Charming!
